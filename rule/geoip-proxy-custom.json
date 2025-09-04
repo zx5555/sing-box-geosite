@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain": [
+				"example-test-cn.com"
+			],
+			"domain_suffix": [
+				".cn",
+				".example-test-cn.com"
+			]
+		}
+	]
+}
+      
