@@ -1,15 +1,18 @@
 {
-	"version": 1,
-	"rules": [
-		{
-			"domain": [
-				"example-test-cn.com"
-			],
-			"domain_suffix": [
-				".cn",
-				".example-test-cn.com"
-			]
-		}
-	]
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "ntp",
+        "wx.qlogo",
+        "weixin",
+        "wechat",
+        "wxpay",
+        "wxmp",
+        "miniprogram",
+        "tencent",
+        "tenpay"
+      ]
+    }
+  ]
 }
-      
