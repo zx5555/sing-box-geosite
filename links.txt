@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/jungleyung123/Reject/refs/heads/main/userReject.yaml
+https://github.com/ryty1/cf-ip/blob/refs%2Fheads%2Fmain/hok.list
